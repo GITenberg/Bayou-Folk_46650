@@ -1,9 +1,8 @@
 _repo: Bayou-Folk_46650
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46650/46650-h/images/bayoufolk_cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46650-h/images/bayoufolk_cover.jpg
 creator:
   author:
     agent_name: Chopin, Kate
@@ -28,6 +27,8 @@ description: Best known for her novel The awakening, Kate Chopin (1851-1904) est
   world. Many of them highlight the relations between blacks and whites in a society
   where the rules of engagement still reflected the entrenched patterns of slavery
   some two decades after the Civil War.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46650#Bayou-Folk
 gutenberg_issued: '2014-08-22'
 gutenberg_type: Text
 identifiers:
